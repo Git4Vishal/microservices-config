@@ -1,5 +1,6 @@
-configuration:
-   projectName: Change again
+spring:
+   application:
+      name: Client Application 
 
 server:
    name: MyServer
