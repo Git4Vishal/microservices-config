@@ -4,3 +4,6 @@ spring:
 
 server:
    name: MyServer
+   
+configuration:
+   projectName: Client Application     
