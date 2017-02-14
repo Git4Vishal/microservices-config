@@ -1,0 +1,5 @@
+configuration:
+   projectName: Change again
+
+server:
+   name: MyServer
