@@ -1,9 +1,5 @@
-spring:
-   application:
-      name: Client Application 
-
 server:
    name: MyServer
    
 configuration:
-   projectName: Client Application     
+   projectName: Client 1 Application     
