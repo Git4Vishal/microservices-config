@@ -1,5 +1,2 @@
-server:
-   name: MyServer
-   
 configuration:
-   projectName: Client 1 Application     
+   projectName: Client Application
